@@ -1,0 +1,16 @@
+.overview{
+    align-items:center;
+    background-color: antiquewhite;
+    font-size: 10px;
+    text-align: center;
+    margin:auto;
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+   
+}
+
+td{
+    margin:50px;
+    text-align: center;
+}
